@@ -1,0 +1,19 @@
+# Site settings
+title: 도도포인트 POS 보조 API
+email: dev+posa@spoqa.com
+description:
+  도도포인트는 간편한 적립 + 효율적인 고객 관리 + 효과적인 프로모션
+  이 모든 기능을 통합한 신개념 고객관리 서비스입니다.
+baseurl: ""
+url: https://spoqa.github.io/posa-api/
+username: spoqa
+
+# Build settings
+markdown: redcarpet
+redcarpet:
+  extensions:
+  - with_toc_data
+permalink: pretty
+highlighter: pygments
+sass:
+  sass_dir: _sass
