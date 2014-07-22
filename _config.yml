@@ -9,11 +9,6 @@ url: https://spoqa.github.io/posa-api/
 username: spoqa
 
 # Build settings
-markdown: redcarpet
-redcarpet:
-  extensions:
-  - with_toc_data
+markdown: kramdown
 permalink: pretty
 highlighter: pygments
-sass:
-  sass_dir: _sass
