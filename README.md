@@ -21,7 +21,7 @@ POS와 연동하여 실제 계산을 할 때 *자동으로* 포인트 적립이 
 
 도도포인트 자체의 사용법에 대해서는 [도도스토어 매뉴얼][1]을 참고하세요.
 
-[1]: http://dodopoint.com/manual/text
+[1]: http://dodo-landing.herokuapp.com/manual/text
 
 
 시스템 개요
